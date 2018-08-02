@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source Contributions on Uma Ayer</title>
-    <link>https://usayer.com/projects/contributions/</link>
+    <link>https://usayer.github.io/projects/contributions/</link>
     <description>Recent content in Open Source Contributions on Uma Ayer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://usayer.com/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://usayer.github.io/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
